@@ -1,0 +1,21 @@
+table, th, td {
+	border: 1px solid black;
+}
+
+.container {
+	background-color: wheat;
+	width: 1000px;
+	border-style: solid;
+	text-align: center;
+
+}
+
+.tablo {
+	border-style: dashed;
+}
+table {
+	text-align: center;
+	border-style: solid;
+	border-color: black;	
+
+}
